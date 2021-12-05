@@ -1,0 +1,5 @@
+API_KEY = 'llkowrXmTMn8INCueN2odrIr4gOur1Ya'
+EXISTING_RECORDING_PATH = './recordings/existing/'
+PROCESSED_RECORDING_PATH = './recordings/processed/processed_'
+S3_AMAZON_BASE_PATH = 'https://content-pegasus.s3.amazonaws.com/test-folder/'
+OUTPUT_BASE_URL = 'dlb://output/'
